@@ -1,0 +1,5 @@
+[cli]
+bears = SpaceConsistencyBear
+files = /home/yadav/Desktop/NWLAB/q9.c
+use_spaces = yes
+default_actions = **: ApplyPatchAction
